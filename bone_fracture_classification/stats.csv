@@ -1,0 +1,5 @@
+,model,best_score,best_params
+0,naive_bayes,0.6194297782470961,{'priors': None}
+1,decision_tree,0.8445617740232312,{'min_samples_split': 40}
+2,random_forest,0.9571277719112988,{'criterion': 'gini'}
+3,svm,0.8838437170010559,"{'C': 10000, 'kernel': 'rbf'}"
