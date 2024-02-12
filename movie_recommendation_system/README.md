@@ -1,0 +1,4 @@
+# movie_recommendation_system
+This repository contains the source code of the project focused on using cosine similarity technique to find similar movies as per user input movie name. Similar movies data can be used by streaming platforms to recommend more similar movies after user has watched his desired movie. It's a part of Content based Recommnedation System. As user input movie name may not be accurate, so to generate suggestions of the accurate name as in database, I used the difflib. Similarities were calculated using sklearn cosine similarity based on movies genres, tagline, keywords, cast and director. At the end, full-fledge recommendation system was created which takes user input, give suggestions so he can select accurate name of the movie he is referring to, and return top 20 similar movies with their database indices, and similarity scores. Data for this project is also attached in this repo.
+<br>
+Author : Umair Siddique
