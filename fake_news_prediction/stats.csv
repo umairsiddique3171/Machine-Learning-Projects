@@ -1,0 +1,3 @@
+,model,best_score,best_params
+0,random_forest,0.9919198055893075,{'criterion': 'gini'}
+1,logistic_regression,0.9871810449574726,"{'penalty': 'l1', 'solver': 'liblinear'}"
